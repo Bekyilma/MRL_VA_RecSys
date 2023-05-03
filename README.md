@@ -20,3 +20,18 @@ Adaptation and Personalization [(UMAP 2023).](https://www.um.org/umap2023/)
 ## Setup 
 
 See [RecSys engine instructions](RecSys_engines/README.md) for setting up the Recommendation services.
+
+Citation
+========
+
+When you use this work or method for your research, we ask you to cite the following publication:
+
+
+[Bereket A. Yilma, Luis A. Leiva: Together Yet Apart: Multimodal Representation Learning for
+Personalised Visual Art Recommendation, Proceedings of the ACM Conference on on User Modeling,
+Adaptation and Personalization (UMAP 2023).](https://dl.acm.org/doi/abs/10.1145/3544548.3581477)
+
+``` bibtex
+
+
+```
