@@ -29,7 +29,7 @@ When you use this work or method for your research, we ask you to cite the follo
 
 [Bereket A. Yilma, Luis A. Leiva: Together Yet Apart: Multimodal Representation Learning for
 Personalised Visual Art Recommendation, Proceedings of the ACM Conference on on User Modeling,
-Adaptation and Personalization (UMAP 2023).](https://dl.acm.org/doi/abs/10.1145/3544548.3581477)
+Adaptation and Personalization (UMAP 2023).](https://orbilu.uni.lu/handle/10993/55026)
 
 ``` bibtex
 
