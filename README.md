@@ -1,7 +1,7 @@
 # MRL_VA_RecSys
 
 The official implementation of <B>"Together Yet Apart: Multimodal Representation Learning for
-Personalised Visual Art Recommendation"</B> [Paper]([https://orbilu.uni.lu/handle/10993/55026](https://dl.acm.org/doi/abs/10.1145/3565472.3592964)) which will appear in the Proceedings of the ACM Conference on User Modeling,
+Personalised Visual Art Recommendation"</B> [Paper](https://dl.acm.org/doi/abs/10.1145/3565472.3592964) which will appear in the Proceedings of the ACM Conference on User Modeling,
 Adaptation and Personalization [(UMAP 2023).](https://www.um.org/umap2023/)
 <p align="center">
 <img width="1100"  src="imgs/cover.jpg"/> 
